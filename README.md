@@ -1,5 +1,5 @@
 ### Olá 👋
 
 Bem-vindo(a), me chamo Adriano Batista e atualmente estou estudando desenvolvimento-web através de cursos online.
-para ser mais exato descobri o maravilhoso mundo da programação em 15 de Abril de 2022 e de cara me apaixonei pelo
+para ser mais exato descobri o maravilhoso mundo da programação em <b> 15 de Abril de 2022 </b> e de cara me apaixonei pelo
 Front-end que é onde ponho meu foco total no momento e você pode acompanhar um pouco da minha evolução logo abaixo.

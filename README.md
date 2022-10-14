@@ -1,4 +1,4 @@
-## Olá 👋🏻
+## Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">
 
 Bem-vindo(a), me chamo <strong>Adriano Batista</strong> e atualmente estou estudando desenvolvimento-web através de cursos online.
 Para ser mais exato descobri o maravilhoso mundo da programação em  <strong>15 de Abril de 2022</strong>  e de cara me apaixonei pelo

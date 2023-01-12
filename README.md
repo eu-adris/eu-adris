@@ -14,8 +14,7 @@ Front-end que é onde ponho meu foco total no momento e você pode acompanhar um
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
    <img  align = "center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
     <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><br><br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eu-adris&layout=compact&langs_count=7&theme=dark"/>
-  </div>
+  
   <div>
   <h3>Find Me 🔎</h3>
   <hr>

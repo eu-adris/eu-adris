@@ -18,7 +18,6 @@ Front-end que é onde ponho meu foco total no momento e você pode acompanhar um
   <div>
   <h3>Find Me 🔎</h3>
   <hr>
-<a href="https://www.instagram.com/eu_adris" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/adriano-batista-633b93241" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
   

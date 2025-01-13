@@ -5,7 +5,7 @@
 
 
 
-Bem-vindo(a), me chamo <strong>Adriano Batista</strong> e atualmente estou estudando desenvolvimento-web através de cursos online.
+Bem-vindo(a), me chamo <strong>Adriano Batista</strong> e sou desenvolvedor front-end jr.
 Para ser mais exato descobri o maravilhoso mundo da programação em  <strong>15 de Abril de 2022</strong>  e de cara me apaixonei pelo
 Front-end que é onde ponho meu foco total no momento e você pode acompanhar um pouco da minha evolução logo abaixo. 👇🏻
 <div align="center">
